@@ -6,6 +6,8 @@ output: html_document
 ---
 
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show! 
   ## and these lines are comments - anything behind a '#' doesn't run!
@@ -21,6 +23,8 @@ Reminder: We learned how to do these things in class today, but there is a "Mark
 **Do not skip reading this line** Create a new section at the end of this file with the title "Your work here", and beneath it, do the following 3 things. To turn this in, make sure you've committed and pushed, and turn in the link to this repository to the assignment on Blackboard.  
 
 1. Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
+
+Some changes here. 
 
 2. Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
 
